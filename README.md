@@ -27,7 +27,7 @@ Rest are example images.
 
 >Usage:
 
-Use "python performRecognition.py  -classifier<PATH TO CLASSIFIER> -i<PATH TO TEST IMAGE>
+Use "python performRecognition.py  -classifier(PATH TO CLASSIFIER) -i(PATH TO TEST IMAGE)
   
 Might throw out some weird errors at first,properly edited images with a singular color background is advised to be used.
 
